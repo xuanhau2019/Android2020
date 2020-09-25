@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bai2Context Menu</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="actions_settings">Settings</string>
+    
+    <color name="clrred">#F00</color>
+    <color name="clrgreed">#0F0</color>
+    <color name="clrblue">#00F</color>
+</resources>

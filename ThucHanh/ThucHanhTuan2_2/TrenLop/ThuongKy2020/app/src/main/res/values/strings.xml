@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thường Kỳ</string>
+    <string name="txtFullname">Họ Và Tên</string>
+    <string name="txtPhoneNumber">Số Điện Thoại</string>
+    <string name="txtAddress">Địa Chỉ</string>
+    <string name="txtTittle">Danh sách</string>
+
+    <string name="btnSave">Lưu</string>
+    <string name="btnDelete">Xóa</string>
+    <string name="btnRead">Đọc danh sách</string>
+</resources>

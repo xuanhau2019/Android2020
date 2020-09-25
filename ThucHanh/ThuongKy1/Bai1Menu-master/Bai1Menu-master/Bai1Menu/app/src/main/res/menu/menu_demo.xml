@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nhapthongtin"
+        android:title="Nhập Thông Tin" />
+    <item
+        android:id="@+id/xemthongtin"
+        android:title="Xem Thông Tin" >
+<!--        <menu >-->
+<!--            <item-->
+<!--                android:id="@+id/tha"-->
+<!--                android:title="Dai Hoc Tin Hoc 1A" />-->
+<!--            <item-->
+<!--                android:id="@+id/thb"-->
+<!--                android:title="Dai Hoc Tin Hoc 1B" />-->
+<!--        </menu>-->
+    </item>
+</menu>

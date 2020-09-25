@@ -1,0 +1,9 @@
+Bai1:
+	2 table:
+
+	sanpham(maso, ten, dvt, dongia, MaSX);
+	nhasanxuat(MaSX, ten, diachi);
+
+	Su dung sqliteOpenhelper xay dung chuc nang nhap xem du lieu;
+Bai2:
+	Su dung ContentProvider cho phep ung dung khac co the truy van thong tin san pham,
